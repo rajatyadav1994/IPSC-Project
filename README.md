@@ -1,2 +1,2 @@
 # IPSC-Project
-Introduction to Parallel Scientific Computing
+Parallel Text Mining. 
